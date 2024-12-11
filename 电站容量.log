@@ -1,0 +1,16 @@
+[
+    {
+        "question": "电站容量",
+        "data": {
+            "llm": false,
+            "tool": "",
+            "rag": "当然，了解放电电量信息，我们可以一步一步来。首先，我需要你想了解那个电站的放电电量信息。例如：xx电站xxxx年xx月xx日放电电量情况。",
+            "recommend": [],
+            "other": [],
+            "origin": "电站放电电量",
+            "refine": false,
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620155043"
+    }
+]

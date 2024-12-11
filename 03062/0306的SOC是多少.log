@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192323"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192345"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192409"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201407"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201429"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201451"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201513"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201539"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201630"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201716"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201806"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201856"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201942"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202055"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202232"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202408"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202540"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202729"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202907"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203042"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203225"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203359"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203547"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203728"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203912"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204058"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204233"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204422"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204600"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204743"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204922"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205051"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205233"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205411"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205552"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205730"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205913"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210056"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210240"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210420"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210556"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210739"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210914"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211053"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211238"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211415"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211601"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211747"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211924"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212104"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212241"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212422"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212606"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212741"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212921"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213101"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213246"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213418"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213600"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213741"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213921"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214102"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214248"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214434"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214604"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214746"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214920"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215101"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215244"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215422"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215609"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215742"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215928"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220103"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220250"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220417"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220556"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220740"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220925"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221104"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221235"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221422"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221604"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221742"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221926"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222107"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222246"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222420"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222601"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222743"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222916"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223101"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223235"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223422"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223612"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223751"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223937"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224113"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224257"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224440"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224615"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224758"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224933"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225114"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225250"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225432"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225628"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225806"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225952"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230132"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230314"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230458"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230630"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230823"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230958"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231144"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231328"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231501"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231636"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231805"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231950"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232125"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232309"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232457"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232632"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232818"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232953"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233134"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233323"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233454"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233640"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233821"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234005"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234142"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234335"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234516"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234650"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234832"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235006"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235147"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235326"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235505"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235658"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235834"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000015"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000149"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000335"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000515"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000652"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000841"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001014"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001201"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001334"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001512"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001654"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001833"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002025"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002206"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002347"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002528"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002707"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002855"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003029"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003212"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003347"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003527"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003714"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003852"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004041"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004223"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004410"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004549"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004740"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004919"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005056"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005240"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005420"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005555"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005736"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005911"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010055"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010227"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010406"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010545"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010721"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010908"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011041"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011224"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011404"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011545"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011724"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011856"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012044"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012230"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012412"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012553"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012730"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012905"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013047"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013228"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013352"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013537"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013714"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013855"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014032"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014214"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014358"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014532"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014713"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014850"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015033"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015213"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015347"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015531"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015705"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015850"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020028"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020207"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020348"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020524"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020712"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020845"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021029"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021205"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021341"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021521"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021647"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021818"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021958"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022142"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022316"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022455"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022638"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022823"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023007"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023147"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023318"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023501"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023638"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023806"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023945"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024122"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024259"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024448"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024633"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024801"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024940"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025119"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025259"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025442"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025622"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025805"
+    },
+    {
+        "question": "0306的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025940"
+    }
+]

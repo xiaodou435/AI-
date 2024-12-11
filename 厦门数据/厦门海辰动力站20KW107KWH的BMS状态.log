@@ -1,0 +1,364 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170127"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170217"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170307"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170357"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170445"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170535"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170625"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170715"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170805"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170854"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170944"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171033"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171121"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171211"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171301"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171351"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171441"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171534"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171710"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171934"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172149"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172428"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172735"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173111"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173532"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174009"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174411"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174835"
+    }
+]

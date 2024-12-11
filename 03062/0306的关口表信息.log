@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192327"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192349"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192413"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201409"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201431"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201453"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201515"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201543"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201634"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201722"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201810"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201901"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201946"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202102"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202238"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202416"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202552"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202738"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202916"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203049"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203232"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203407"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203556"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203740"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203921"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204105"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204241"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204431"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204609"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204751"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204931"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205100"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205242"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205416"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205601"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205738"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205921"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210107"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210249"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210428"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210605"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210747"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210924"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211102"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211246"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211422"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211610"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211757"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211931"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212113"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212249"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212430"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212615"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212749"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212930"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213108"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213252"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213425"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213610"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213750"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213928"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214110"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214256"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214441"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214613"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214754"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214929"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215110"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215253"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215431"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215617"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215751"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215936"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220113"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220257"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220427"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220604"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220749"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220932"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221112"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221245"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221429"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221613"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221752"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221933"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222116"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222255"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222430"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222607"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222750"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222925"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223108"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223245"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223431"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223620"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223800"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223945"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224122"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224305"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224450"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224622"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224805"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224940"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225122"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225300"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225440"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225638"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225813"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230000"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230143"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230324"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230506"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230641"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230828"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231009"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231152"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231336"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231508"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231643"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231812"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231958"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232135"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232317"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232505"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232641"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232825"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233000"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233142"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233330"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233502"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233647"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233829"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234012"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234152"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234342"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234525"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234656"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234839"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235015"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235155"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235333"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235513"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}\n✿RETURN✿:"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235709"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235842"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000023"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000201"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000343"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000525"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000659"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000849"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001023"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001208"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001342"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001519"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001704"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001844"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002033"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002214"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002354"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002537"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002716"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002902"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003036"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003220"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003356"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003535"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003723"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003859"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004048"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004235"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004417"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004602"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004749"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004927"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005103"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005244"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005430"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005603"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005745"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005918"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010102"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010235"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010413"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010553"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010730"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010922"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011049"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011232"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011414"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011554"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011733"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011906"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012053"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012238"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012420"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012601"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012739"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012918"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013054"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013237"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013400"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013544"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013722"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013903"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014045"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014222"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014405"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014539"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014720"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014858"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015041"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015223"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015356"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015538"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015714"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015859"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020038"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020214"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020356"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020535"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020720"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020853"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021036"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021214"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021349"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021527"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021656"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021825"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022005"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022150"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022324"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022503"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022646"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022832"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023015"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023154"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023326"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023509"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023642"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023815"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023952"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024131"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024308"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024459"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024640"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024809"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024947"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025127"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025308"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025450"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025630"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025812"
+    },
+    {
+        "question": "0306的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025950"
+    }
+]

@@ -1,0 +1,3530 @@
+[
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192338"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192402"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201413"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201435"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201457"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201519"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201551"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201642"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201731"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201818"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201908"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201954"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202117"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202254"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202430"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202611"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202753"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202932"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203108"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203248"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203425"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203612"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203758"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203937"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204121"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204257"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204447"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204628"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204807"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204944"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205116"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205257"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205436"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205616"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205755"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205938"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210122"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210304"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210445"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210624"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210802"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210942"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211117"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211303"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211440"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211625"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211812"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211949"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212129"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212306"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212448"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212627"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212806"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212945"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213126"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213303"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213443"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213627"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213807"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213944"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214127"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214311"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214458"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214629"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214808"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214949"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215128"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215309"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215444"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215633"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215806"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215953"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220133"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220308"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220444"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220619"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220804"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220951"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221128"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221310"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221445"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221628"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221808"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221951"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222135"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222310"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222447"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222623"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222805"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222942"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223124"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223306"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223448"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223639"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223817"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224000"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224148"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224323"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224505"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224639"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224820"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225004"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225137"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225321"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225504"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225653"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225831"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230015"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230200"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230341"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230521"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230656"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230842"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231032"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231207"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231354"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231522"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231700"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231835"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232013"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232153"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232332"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232523"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232656"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232840"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233024"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233157"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233345"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233520"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233703"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233845"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234028"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234218"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234356"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234540"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234711"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234854"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235033"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235210"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235355"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235532"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235726"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235856"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000042"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000221"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000358"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000548"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000720"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000904"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001042"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001221"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001356"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001533"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001721"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001902"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002050"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002234"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002410"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002556"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002731"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002917"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003055"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003233"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003414"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003550"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003741"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003914"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004103"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004254"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004438"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004624"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004805"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004941"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005121"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005300"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005448"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005619"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005800"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005934"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010115"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010253"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010430"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010612"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010745"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010935"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011104"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011247"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011431"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011609"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011751"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011921"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012113"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012254"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012438"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012618"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012754"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012931"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013110"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013245"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013417"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013600"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013740"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013920"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014106"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014238"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014421"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014556"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014739"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014918"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015057"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015239"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015413"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015554"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015729"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015914"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020100"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020230"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020416"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020551"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020735"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020914"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021051"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021235"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021405"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021544"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021708"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021842"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022024"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022208"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022345"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022521"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022703"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022849"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023032"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023210"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023341"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023525"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023656"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023834"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024005"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024146"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024329"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024517"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024652"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024824"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025005"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025143"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025325"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025504"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025645"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025828"
+    },
+    {
+        "question": "0306的并网表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bw_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622030006"
+    }
+]

@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192321"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192343"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192407"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201405"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201427"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201449"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201512"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201535"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201627"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201713"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201803"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201851"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201938"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202048"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202225"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202403"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202532"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202717"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202858"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203038"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203217"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203350"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203540"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203719"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203903"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204049"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204225"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204411"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204551"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204736"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204914"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205046"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205224"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205401"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205544"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205722"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205904"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210047"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210232"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210413"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210548"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210731"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210905"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211046"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211230"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211407"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211553"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211733"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211919"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212055"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212234"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212414"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212555"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212733"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212913"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213052"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213239"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213410"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213551"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213732"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213913"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214053"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214240"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214425"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214557"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214737"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214912"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215053"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215234"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215414"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215600"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215734"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215923"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220055"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220241"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220408"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220548"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220733"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220912"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221055"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221228"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221415"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221554"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221732"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221918"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222059"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222238"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222412"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222554"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222735"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222909"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223054"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223227"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223412"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223602"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223744"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223930"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224103"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224249"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224427"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224606"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224750"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224922"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225107"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225242"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225428"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225620"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225757"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225945"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230120"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230307"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230449"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230622"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230811"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230948"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231136"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231320"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231454"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231630"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231757"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231942"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232119"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232302"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232448"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232624"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232810"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232944"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233126"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233311"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233447"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233631"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233814"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233958"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234133"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234327"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234507"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234641"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234823"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234959"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235140"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235312"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235458"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235649"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235827"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000008"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000142"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000328"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000505"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000644"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000834"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001006"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001157"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001324"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001505"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001641"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001825"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002017"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002156"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002339"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002520"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002659"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002846"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003025"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003203"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003338"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003522"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003703"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003844"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004033"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004214"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004402"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004538"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004731"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004912"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005048"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005229"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005411"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005548"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005727"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005902"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010048"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010220"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010358"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010536"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010711"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010900"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011030"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011215"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011356"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011537"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011715"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011848"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012037"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012220"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012405"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012546"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012723"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012856"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013038"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013220"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013345"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013530"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013706"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013847"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014023"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014206"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014349"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014524"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014705"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014843"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015026"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015204"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015342"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015524"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015657"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015842"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020019"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020201"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020339"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020517"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020702"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020837"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021021"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021156"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021334"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021511"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021639"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021812"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021949"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022133"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022307"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022447"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022631"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022814"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022955"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023139"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023311"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023454"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023630"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023759"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023937"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024114"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024251"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024439"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024625"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024756"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024933"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025111"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025250"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025432"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025611"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025757"
+    },
+    {
+        "question": "0306的BMS状态",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_status",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025933"
+    }
+]

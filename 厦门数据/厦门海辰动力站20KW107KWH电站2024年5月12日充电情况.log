@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170117"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170206"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170256"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170345"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170435"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170524"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170614"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170704"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170754"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170843"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170933"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171022"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171110"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171200"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171250"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171340"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171430"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171520"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171651"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171903"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172124"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172401"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172657"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173023"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173445"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173922"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174326"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月12日充电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_charge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-12\", \"end\": \"2024-05-12\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174747"
+    }
+]

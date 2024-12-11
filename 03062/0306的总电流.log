@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192329"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192351"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192416"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201415"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201437"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201459"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201521"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201556"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201646"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201736"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201822"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201912"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201958"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202126"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202303"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202435"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202619"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202801"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202940"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203116"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203256"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203435"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203620"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203807"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203945"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204131"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204311"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204454"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204636"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204815"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204952"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205123"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205306"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205444"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205624"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205804"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205947"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210131"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210313"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210452"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210634"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210811"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210950"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211125"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211309"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211448"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211634"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211821"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211957"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212136"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212315"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212458"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212636"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212813"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212954"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213136"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213311"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213451"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213635"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213816"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213953"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214135"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214320"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214506"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214639"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214817"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214958"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215135"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215317"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215452"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215641"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215820"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220000"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220143"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220315"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220452"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220628"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220813"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221001"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221136"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221318"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221453"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221636"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221814"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222004"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222145"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222319"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222455"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222632"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222812"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222952"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223131"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223316"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223457"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223643"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223825"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224008"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224157"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224331"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224512"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224646"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224828"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225014"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225145"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225330"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225512"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225700"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225841"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230023"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230208"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230348"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230529"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230706"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230850"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231040"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231214"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231402"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231532"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231707"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231845"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232023"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232202"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232340"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232531"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232705"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232850"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233034"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233207"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233353"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233528"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233712"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233854"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234037"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234228"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234405"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234547"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234720"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234904"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235043"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235220"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235407"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235543"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235734"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235904"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000045"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000231"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000406"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000555"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000727"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000915"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001051"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001229"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001411"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001542"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001731"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001913"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002100"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002244"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002422"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002604"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002740"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002925"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003103"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003241"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003428"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003558"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003749"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003923"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004115"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004304"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004446"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004632"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004811"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004951"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005130"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005308"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005457"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005626"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005808"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005941"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010123"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010303"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010438"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010620"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010755"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010943"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011115"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011259"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011439"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011618"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011757"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011930"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012121"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012306"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012447"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012628"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012800"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012940"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013118"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013253"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013426"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013609"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013749"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013927"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014113"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014246"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014428"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014603"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014744"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014928"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015106"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015246"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015421"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015601"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015738"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015923"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020108"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020239"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020423"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020558"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020743"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020922"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021100"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021243"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021414"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021553"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021717"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021852"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022035"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022216"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022353"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022528"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022716"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022858"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023039"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023218"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023349"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023533"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023700"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023842"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024014"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024155"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024340"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024524"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024700"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024833"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025014"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025152"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025335"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025512"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025652"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025835"
+    },
+    {
+        "question": "0306的总电流",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_electricity",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622030017"
+    }
+]

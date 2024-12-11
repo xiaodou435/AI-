@@ -1,0 +1,13 @@
+[
+    {
+        "question": "电站名称",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620155047"
+    }
+]

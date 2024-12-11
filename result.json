@@ -1,0 +1,14 @@
+{
+    "question": "电站位置",
+    "data": {
+        "llm": "",
+        "tool": {
+            "name": "station_location",
+            "arguments": "{\"station\": \"古雷石化200WH电站在哪里\"}"
+        },
+        "rag": "",
+        "recommend": [],
+        "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+    },
+    "time": "20240620152631"
+}

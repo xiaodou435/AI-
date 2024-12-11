@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170149"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170239"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170328"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170418"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170507"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170556"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170647"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170736"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170826"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170916"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171005"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171054"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171143"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171233"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171323"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171413"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171503"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171620"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171815"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172040"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172255"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172555"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172908"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173313"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173754"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174208"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174619"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的环控信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_loop",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620175037"
+    }
+]

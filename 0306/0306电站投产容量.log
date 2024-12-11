@@ -1,0 +1,1276 @@
+[
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160635"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160643"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160651"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160659"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160707"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160715"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160722"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160730"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160739"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160747"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160755"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160804"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160825"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160833"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160841"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160849"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160857"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160905"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160913"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160921"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160929"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160937"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160945"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620160953"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161001"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161009"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161017"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161025"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161032"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161040"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161048"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161056"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161104"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161112"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161121"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161129"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161137"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161145"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161208"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161216"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161224"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161232"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161240"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}\n✿RETURN✿:"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161248"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161258"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161306"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161314"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161322"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161330"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161338"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161346"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161354"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161402"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161410"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161418"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161427"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161435"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161443"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161452"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161500"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161508"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161516"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161524"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161532"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161540"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161548"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161555"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161603"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161611"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161619"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161627"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161635"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161643"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161651"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161659"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161707"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161715"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161723"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161731"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161739"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161747"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161755"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161803"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161811"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161819"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161827"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161835"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161844"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161851"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161859"
+    },
+    {
+        "question": "0306电站投产容量",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"0306电站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620161907"
+    }
+]

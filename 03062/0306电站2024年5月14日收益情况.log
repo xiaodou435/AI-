@@ -1,0 +1,408 @@
+[
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163017"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163030"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163041"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163053"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163105"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163117"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163130"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163142"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163154"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163206"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163218"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163231"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163251"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163317"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163330"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163342"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163354"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163406"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163418"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163430"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163442"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163456"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163508"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163520"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163532"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163544"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163556"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163607"
+    },
+    {
+        "question": "0306电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"0306电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620163619"
+    }
+]

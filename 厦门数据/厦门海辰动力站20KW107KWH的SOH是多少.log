@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170136"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170225"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170315"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170405"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170454"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170543"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170633"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170723"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170813"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170903"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170952"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171041"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171130"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171220"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171309"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171359"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171449"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171551"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171732"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171957"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172214"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172500"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172804"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173155"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173617"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174052"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174455"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOH是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soh",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174916"
+    }
+]

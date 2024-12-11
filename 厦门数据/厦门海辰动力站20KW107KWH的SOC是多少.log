@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170134"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170223"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170313"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170403"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170452"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170541"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170631"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170721"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170811"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170900"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170950"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171039"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171128"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171218"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171307"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171357"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171447"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171546"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171724"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171950"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172207"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_bms_soc",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172452"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172756"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173144"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173606"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174041"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174445"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的SOC是多少",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174906"
+    }
+]

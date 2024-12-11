@@ -1,0 +1,16 @@
+[
+    {
+        "question": "电站个数",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620155051"
+    }
+]

@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192330"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192353"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621192418"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201358"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201420"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201442"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201504"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201526"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201611"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201657"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201747"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201833"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621201923"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202017"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202149"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202325"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202502"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202646"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621202823"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203008"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203141"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203320"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203504"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203646"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621203831"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204011"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204156"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204337"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204518"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204703"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621204840"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205016"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205149"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205329"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205511"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205648"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621205833"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210010"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210159"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210343"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210517"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210700"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621210834"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211013"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211152"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211333"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211523"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211657"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621211843"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212025"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212201"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212340"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212522"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212703"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621212837"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213016"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213202"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213334"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213519"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213658"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621213841"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214016"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214206"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214346"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214528"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214708"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621214842"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215022"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215159"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215341"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215517"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215701"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621215850"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220024"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220207"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220334"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220516"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220654"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621220840"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221027"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221156"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221341"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221516"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221700"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621221846"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222027"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222208"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222340"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222517"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222655"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621222836"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223025"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223156"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223342"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223525"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223709"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621223903"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224032"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224219"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224356"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224535"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224712"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621224851"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225039"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225209"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225356"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225542"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225726"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621225911"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230046"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230236"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230413"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230552"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230737"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621230914"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231102"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231240"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231421"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231602"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231731"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621231912"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232047"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232228"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232404"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232554"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232733"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621232913"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233058"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233233"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233416"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233552"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233735"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621233925"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234100"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234255"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234428"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234610"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234748"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621234926"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235111"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235242"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235428"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235607"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235756"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240621235931"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000109"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000258"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000430"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000615"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000754"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622000934"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001123"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001252"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001434"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001606"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001754"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622001938"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002123"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002307"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002446"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002627"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002810"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622002950"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003130"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003309"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003451"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003626"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003812"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622003948"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004141"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004328"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004505"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004702"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622004835"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005014"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005158"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005335"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005519"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005650"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622005830"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010011"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010148"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010331"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010504"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010640"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622010824"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011005"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011141"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011323"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011504"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011641"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011818"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622011953"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012147"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012329"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012515"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012653"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622012823"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013006"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013145"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013317"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013452"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013634"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013817"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622013951"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014137"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014309"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014452"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014634"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014809"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622014954"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015129"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015309"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015446"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015630"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015806"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622015947"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020131"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020302"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020446"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020626"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020809"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622020949"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021124"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021306"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021436"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021615"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021738"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622021917"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022101"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022235"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022416"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022555"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022740"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622022924"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023103"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023243"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023417"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023558"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023725"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622023907"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024041"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024219"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024408"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024548"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024728"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622024900"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025041"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025219"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025358"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025538"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025718"
+    },
+    {
+        "question": "0306的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"0306\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240622025902"
+    }
+]

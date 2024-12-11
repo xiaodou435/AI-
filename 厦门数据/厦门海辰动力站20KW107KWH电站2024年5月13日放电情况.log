@@ -1,0 +1,394 @@
+·[
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170120"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170209"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170259"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13T00:00:00\", \"end\": \"2024-05-13T23:59:59\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170349"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170438"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170527"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170617"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170707"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170757"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170847"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170936"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171025"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171114"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171204"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171254"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171343"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171433"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171523"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171657"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171911"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172130"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172409"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172706"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173038"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173453"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173932"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-01\", \"end\": \"2024-05-31\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174338"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月13日放电情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_discharge",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-13\", \"end\": \"2024-05-13\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174806"
+    }
+]

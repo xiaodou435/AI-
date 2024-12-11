@@ -1,0 +1,405 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170104"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170153"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170243"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170332"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": true,
+            "tool": "",
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170422"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170511"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170601"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170651"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170740"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170831"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH容量\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170920"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171009"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171058"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171147"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171237"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171327"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171417"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171507"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171628"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171828"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172056"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172317"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172614"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172930"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173340"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_capacity",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173821"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174228"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174648"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH有多少电站",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_number",
+                "arguments": "{\"station\": \"厦门海辰动力站\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620175057"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170142"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170232"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170322"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170411"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170500"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170550"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170640"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170729"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170820"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170909"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170958"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH的电表信息\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171048"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171136"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171226"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171316"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171406"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171456"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171608"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171754"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172016"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172235"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172529"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172834"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173234"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173711"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174130"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH电表信息\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174536"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的电表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174958"
+    }
+]

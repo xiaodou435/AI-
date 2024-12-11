@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170114"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170203"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170252"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170342"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170431"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170521"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170610"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170701"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170750"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170840"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170930"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171019"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171107"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171157"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171247"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171337"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171427"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171517"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171646"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171854"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172117"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172350"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172647"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173011"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH\", \"start\": \"2024-05-14T00:00:00\", \"end\": \"2024-05-14T23:59:59\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173423"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173905"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174313"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH电站2024年5月14日收益情况",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "station_earnings",
+                "arguments": "{\"station\": \"厦门海辰动力站20KW107KWH电站\", \"start\": \"2024-05-14\", \"end\": \"2024-05-14\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174735"
+    }
+]

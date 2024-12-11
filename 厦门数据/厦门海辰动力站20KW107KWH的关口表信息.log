@@ -1,0 +1,394 @@
+[
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170147"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170236"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170326"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170416"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170505"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170554"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170644"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170734"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170824"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620170914"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171003"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171052"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171141"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171231"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171321"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171410"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171500"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171616"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620171808"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172032"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172247"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172546"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620172855"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173300"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620173734"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174153"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620174607"
+    },
+    {
+        "question": "厦门海辰动力站20KW107KWH的关口表信息",
+        "data": {
+            "llm": "",
+            "tool": {
+                "name": "device_gk_meter",
+                "arguments": "{\"device\": \"厦门海辰动力站20KW107KWH\"}"
+            },
+            "rag": "",
+            "recommend": [],
+            "flag": "1fd27f8c55384fe48e271cc677afa8cf"
+        },
+        "time": "20240620175021"
+    }
+]
